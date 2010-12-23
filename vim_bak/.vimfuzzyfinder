@@ -1,0 +1,304 @@
+VERSION	217
+MruFile.data	{'word': '/Users/jbowles/.pass', 'time': 1293039364}
+MruFile.data	{'word': '/Users/jbowles/x/projects/ruby/ai/prob_word.rb', 'time': 1292960321}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/WC.hs', 'time': 1292960168}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/GoToFile', 'time': 1292959892}
+MruFile.data	{'word': '/Users/jbowles/ghc-7.0.1/bindist.mk', 'time': 1292955451}
+MruFile.data	{'word': '/Users/jbowles/ghc-7.0.1/README', 'time': 1292955391}
+MruFile.data	{'word': '/Users/jbowles/ghc-7.0.1/INSTALL', 'time': 1292955227}
+MruFile.data	{'word': '/Users/jbowles/ghc-7.0.1/packages', 'time': 1292955214}
+MruFile.data	{'word': '/Users/jbowles/ghc-7.0.1/utils/ghc-pwd/ghc-pwd', 'time': 1292954847}
+MruFile.data	{'word': '/Users/jbowles/Downloads/base-4.3.0.0/install-sh', 'time': 1292954692}
+MruFile.data	{'word': '/Users/jbowles/ghc-7.0.1/configure', 'time': 1292954568}
+MruFile.data	{'word': '/Users/jbowles/Downloads/ghc-7.0.1/INSTALL', 'time': 1292954201}
+MruFile.data	{'word': '/Users/jbowles/.ghc/i386-darwin-6.12.3/package.conf.d/package.cache', 'time': 1292951723}
+MruFile.data	{'word': '/Users/jbowles/.ghc/ghci_history', 'time': 1292951701}
+MruFile.data	{'word': '/Users/jbowles/.ghc/i386-darwin-6.12.3/package.conf.d/haskell98-1.1.0.0-931053ec2a34a546ee52d8b18c44f575.conf', 'time': 1292949915}
+MruFile.data	{'word': '/Users/jbowles/.cabal/config', 'time': 1292949775}
+MruFile.data	{'word': '/Users/jbowles/.profile', 'time': 1292815594}
+MruFile.data	{'word': '/Users/jbowles/ltx/CV/ResumeCover/Bowles_IndustryResume.tex', 'time': 1292815436}
+MruFile.data	{'word': '/Users/jbowles/.cabal/share/gtk2hs-buildtools-0.12.0/hierarchyGen/Hierarchy.chs.template', 'time': 1292809608}
+MruFile.data	{'word': '/Users/jbowles/.cabal/share/gtk2hs-buildtools-0.12.0/hierarchyGen/hierarchy.list', 'time': 1292809596}
+MruFile.data	{'word': '/Users/jbowles/.cabal/share/gtk2hs-buildtools-0.12.0/callbackGen/Signal.chs.template', 'time': 1292809550}
+MruFile.data	{'word': '/Users/jbowles/.cabal/lib/haskell98-1.1.0.0/ghc-6.12.3/Array.hi', 'time': 1292809476}
+MruFile.data	{'word': '/Users/jbowles/.leksah-0.9/collectSystem.report', 'time': 1292809279}
+MruFile.data	{'word': '/Users/jbowles/.leksah-0.9/metadata/haskell-src-1.0.1.3.lkshm', 'time': 1292809231}
+MruFile.data	{'word': '/Users/jbowles/.leksah-0.9/metadata/haskell98-1.0.1.1.lkshm', 'time': 1292809219}
+MruFile.data	{'word': '/Users/jbowles/.leksah-0.9/metadata/Hello-0.0.1/Main.lkshe', 'time': 1292809173}
+MruFile.data	{'word': '/Users/jbowles/.leksah-0.9/prefs.lkshp', 'time': 1292809137}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello.lkshw', 'time': 1292808953}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/Hello.cabal', 'time': 1292808946}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/Setup.lhs', 'time': 1292808944}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/dist/setup-config', 'time': 1292808943}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/dist/package.conf.inplace', 'time': 1292808941}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/dist/build/autogen/Paths_Hello.hs', 'time': 1292808940}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/dist/build/autogen/cabal_macros.h', 'time': 1292808916}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/Hello/src/Main.hs', 'time': 1292808774}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/leksah_manual.pdf', 'time': 1292806510}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/tutor/quux.txt', 'time': 1292806417}
+MruFile.data	{'word': '/Users/jbowles/.cabal/lib/haskell98-1.1.0.0/ghc-6.12.3/libHShaskell98-1.1.0.0.a', 'time': 1292803898}
+MruFile.data	{'word': '/Users/jbowles/.cabal/lib/haskell98-1.1.0.0/ghc-6.12.3/Ix.hi', 'time': 1292803747}
+MruFile.data	{'word': '/Users/jbowles/.cabal/logs/build.log', 'time': 1292803458}
+MruFile.data	{'word': '/Users/jbowles/.cabal/share/doc/gtk2hs-buildtools-0.12.0/COPYING', 'time': 1292803258}
+MruFile.data	{'word': '/Users/jbowles/Downloads/base-4.3.0.0/LICENSE', 'time': 1292797581}
+MruFile.data	{'word': '/Users/jbowles/.leksah-0.9/packageSources/base-4.3.0.0/install-sh', 'time': 1292797448}
+MruFile.data	{'word': '/Users/jbowles/.config/gtk-2.0/gtkfilechooser.ini', 'time': 1292797014}
+MruFile.data	{'word': '/Users/jbowles/ltx/CV/cv/cvset.tex', 'time': 1292792354}
+MruFile.data	{'word': '/Users/jbowles/ltx/ter.tex', 'time': 1292792268}
+MruFile.data	{'word': '/Users/jbowles/jsq144/classic_jquery_plugin.html', 'time': 1292790467}
+MruFile.data	{'word': '/Users/jbowles/jsq144/jquery-min.1.4.4.js', 'time': 1292790456}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/src/Parser.hs', 'time': 1292790361}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/src/FixedPlay.hs', 'time': 1292790336}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/src/Run.hs', 'time': 1292790328}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/GoToFile', 'time': 1292790319}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/READ.html', 'time': 1292780505}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/README.html', 'time': 1292780082}
+MruFile.data	{'word': '/Users/jbowles/x/projects/haskell/haskell-soln/README', 'time': 1292779773}
+MruFile.data	{'word': '/Users/jbowles/Documents/ltx/CV/cv/info.tex', 'time': 1292769628}
+MruFile.data	{'word': '/Users/jbowles/Documents/ltx/CV/cv/cvset.tex', 'time': 1292769389}
+MruFile.data	{'word': '/Users/jbowles/Documents/ltx/LingTheory/FunctionalistProgram.tex', 'time': 1292768598}
+MruFile.data	{'word': '/Volumes/josh1/ltx/CV/cv/cvset.tex', 'time': 1292768315}
+MruFile.data	{'word': '/Users/jbowles/x/projects/java/metrics/cha3.java', 'time': 1292697881}
+MruFile.data	{'word': '/Users/jbowles/x/projects/java/metrics/mhold.java', 'time': 1292697846}
+MruFile.data	{'word': '/Users/jbowles/Downloads/Report20101216-1.csv', 'time': 1292622717}
+MruFile.data	{'word': '/Users/jbowles/.bashrc', 'time': 1292616503}
+MruFile.data	{'word': '/Users/jbowles/.bash_profile', 'time': 1292616491}
+MruFile.data	{'word': '/Users/jbowles/.bash_history', 'time': 1292616354}
+MruFile.data	{'word': '/Users/jbowles/.bash_aliases', 'time': 1292616347}
+MruFile.data	{'word': '/Users/jbowles/.dbshell', 'time': 1292616334}
+MruFile.data	{'word': '/Users/jbowles/Downloads/Report20101216.csv', 'time': 1292599770}
+MruFile.data	{'word': '/Users/jbowles/jsq144/plugin_tutorial.html', 'time': 1292589200}
+MruFile.data	{'word': '/Users/jbowles/jsq144/GoToFile', 'time': 1292589193}
+MruFile.data	{'word': '/Users/jbowles/jsq144/test.html', 'time': 1292589186}
+MruFile.data	{'word': '/Users/jbowles/Downloads/CAT_OSS_v1/INSTALLATION_FILES/sample.web.config', 'time': 1292552349}
+MruFile.data	{'word': '/Users/jbowles/Downloads/CAT_OSS_v1/website/aboutCAT.aspx', 'time': 1292552326}
+MruFile.data	{'word': '/Users/jbowles/Downloads/CAT_OSS_v1/INSTALLATION_README.txt', 'time': 1292552241}
+MruFile.data	{'word': '/Users/jbowles/Downloads/CAT_OSS_v1/GPLv3.txt', 'time': 1292552232}
+MruFile.data	{'word': '/Users/jbowles/Downloads/CAT_OSS_v1/LICENSE.txt', 'time': 1292552220}
+MruFile.data	{'word': '/Users/jbowles/src/conversion/omniture_tracking_source.js', 'time': 1292520142}
+MruFile.data	{'word': '/Users/jbowles/debug_test.rb', 'time': 1292520139}
+MruFile.data	{'word': '/Users/jbowles/Downloads/SiteCatalyst Classifications.tab', 'time': 1292520120}
+MruFile.data	{'word': '/Users/jbowles/src/conversion/omniture_tracking.php', 'time': 1292520016}
+MruFile.data	{'word': '/Users/jbowles/src/conversion/omniture_tracking.js', 'time': 1292520015}
+MruFile.data	{'word': '/Users/jbowles/src/conversion/omniture_tracking_source_component.php', 'time': 1292520006}
+MruFile.data	{'word': '/Users/jbowles/Downloads/OmnitureMeasurement.class.php', 'time': 1292519953}
+MruFile.data	{'word': '/Users/jbowles/Desktop/Report_tyler.csv', 'time': 1292519012}
+MruFile.data	{'word': '/Users/jbowles/Desktop/Report_mine.csv', 'time': 1292517591}
+MruFile.data	{'word': '/Users/jbowles/jsq144/jquery.gshuffle-1.js', 'time': 1292467975}
+MruFile.data	{'word': '/Users/jbowles/jsq144/mona_lisa_shuffle.html', 'time': 1292467972}
+MruFile.data	{'word': '/Users/jbowles/Downloads/Report20101214.csv', 'time': 1292452833}
+MruFile.data	{'word': '/Users/jbowles/Downloads/Report.csv', 'time': 1292452730}
+MruFile.data	{'word': '/Users/jbowles/Library/Preferences/RubyMine30/quicklists/Refactor this___.xml', 'time': 1292389713}
+MruFile.data	{'word': '/Users/jbowles/.vimrc', 'time': 1292385984}
+MruFile.data	{'word': '/Users/jbowles/tags', 'time': 1292385146}
+MruFile.data	{'word': '/Users/jbowles/tags-tl', 'time': 1292385139}
+MruFile.data	{'word': '/Users/jbowles/jsq144/jquery.js', 'time': 1292383401}
+MruFile.data	{'word': '/Users/jbowles/jsq144/jquery-1.4.4.js', 'time': 1292383335}
+MruFile.data	{'word': '/Users/jbowles/jsq/jquery-1.4.4.js', 'time': 1292383121}
+MruFile.data	{'word': '/Users/jbowles/jsq/jquery-min.1.4.4.js', 'time': 1292383031}
+MruFile.data	{'word': '/Users/jbowles/jsq/jquery.js', 'time': 1292382944}
+MruFile.data	{'word': '/Users/jbowles/Downloads/Report20101213.csv', 'time': 1292336210}
+MruFile.data	{'word': '/Users/jbowles/Documents/arp_status.txt', 'time': 1292261475}
+MruFile.data	{'word': '/Users/jbowles/src/ppc_commander/config/daemons.god', 'time': 1292261078}
+MruFile.data	{'word': '/Users/jbowles/Downloads/Report20101211.csv', 'time': 1292252444}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/test.c', 'time': 1292205027}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/hello.c', 'time': 1292205017}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/test.c', 'time': 1292205003}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/Templates', 'time': 1292204998}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/commandln.c', 'time': 1292204620}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/c.comments.template', 'time': 1292204591}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/c.idioms.template', 'time': 1292204587}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/c.preprocessor.template', 'time': 1292204582}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/c.statements.template', 'time': 1292204577}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/templates/cpp.statements.template', 'time': 1292204323}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/testing.c', 'time': 1292204259}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/cmdLine.c', 'time': 1292204071}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/commandLine.c', 'time': 1292204067}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/sine.c', 'time': 1292204064}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/graphix.c', 'time': 1292201273}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/graphics.c', 'time': 1292201128}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/dialog.c', 'time': 1292201032}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/dialog_box.c', 'time': 1292198680}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/tags', 'time': 1292198632}
+MruFile.data	{'word': '/Users/jbowles/kwd_google.rb', 'time': 1292193186}
+MruFile.data	{'word': '/Users/jbowles/.gvimrc', 'time': 1292193175}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/rc/customization.gvimrc', 'time': 1292190755}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/rc/customization.vimrc', 'time': 1292190716}
+MruFile.data	{'word': '/Users/jbowles/$MYGVIM', 'time': 1292190531}
+MruFile.data	{'word': '/Users/jbowles/.vtags', 'time': 1292188547}
+MruFile.data	{'word': '/Users/jbowles/.vromerc', 'time': 1292188489}
+MruFile.data	{'word': '/Users/jbowles/.semanticdb/!Users!jbowles!experimental!projects!c!SwarmIntell!semantic.cache', 'time': 1292188447}
+MruFile.data	{'word': '/Users/jbowles/.screenrc', 'time': 1292188432}
+MruFile.data	{'word': '/Users/jbowles/.recently-used.xbel', 'time': 1292188400}
+MruFile.data	{'word': '/Users/jbowles/.pentadactylrc', 'time': 1292188376}
+MruFile.data	{'word': '/Users/jbowles/.nsmcrc', 'time': 1292188366}
+MruFile.data	{'word': '/Users/jbowles/.irssi/tzu.theme', 'time': 1292188337}
+MruFile.data	{'word': '/Users/jbowles/.irssi/default.theme', 'time': 1292188319}
+MruFile.data	{'word': '/Users/jbowles/.gitconfig', 'time': 1292188291}
+MruFile.data	{'word': '/Users/jbowles/.gemrc', 'time': 1292188280}
+MruFile.data	{'word': '/Users/jbowles/.vimperator/noscript.js', 'time': 1292188264}
+MruFile.data	{'word': '/Users/jbowles/.vimperatorrc', 'time': 1292188200}
+MruFile.data	{'word': '/Users/jbowles/.vimfuzzyfinder', 'time': 1292188184}
+MruFile.data	{'word': '/Users/jbowles/.vim/plugin/taglist.vim', 'time': 1292188166}
+MruFile.data	{'word': '/Users/jbowles/.tmux.conf', 'time': 1292188154}
+MruFile.data	{'word': '/Users/jbowles/yankring_history_v2.txt', 'time': 1292188068}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/__Tag_List__', 'time': 1292187867}
+MruFile.data	{'word': '/Users/jbowles/.vim/plugin/GoToFile', 'time': 1292177383}
+MruFile.data	{'word': '/Users/jbowles/__Tag_List__', 'time': 1292176369}
+MruFile.data	{'word': '/Users/jbowles/.vim/filetype.vim', 'time': 1292176343}
+MruFile.data	{'word': '/Users/jbowles/.vim/doc/tags-ja', 'time': 1292175693}
+MruFile.data	{'word': '/Users/jbowles/.vim/doc/tags', 'time': 1292175678}
+MruFile.data	{'word': '/usr/bin/ctags', 'time': 1292174686}
+MruFile.data	{'word': '/Users/jbowles/.vim/plugin/easytags.vim', 'time': 1292174584}
+MruFile.data	{'word': '/Users/jbowles/Desktop/c-support/rc/customization.ctags', 'time': 1292174401}
+MruFile.data	{'word': '/Users/jbowles/.vim/plugin/localvimrc.vim', 'time': 1292174241}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/rc/customization.indent.pro', 'time': 1292173671}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/rc/customization.ctags', 'time': 1292173660}
+MruFile.data	{'word': '/Users/jbowles/Desktop/c-support/rc/customization.vimrc', 'time': 1292173610}
+MruFile.data	{'word': '/Users/jbowles/Desktop/c-support/rc/customization.gvimrc', 'time': 1292173554}
+MruFile.data	{'word': '/Users/jbowles/Desktop/c-support/rc/customization.indent.pro', 'time': 1292173530}
+MruFile.data	{'word': '/Users/jbowles/.irbrc', 'time': 1292173404}
+MruFile.data	{'word': '/Users/jbowles/.railsrc', 'time': 1292173393}
+MruFile.data	{'word': '/Users/jbowles/GoToFile', 'time': 1292173381}
+MruFile.data	{'word': '/Users/jbowles/.clojure/user.clj', 'time': 1292172996}
+MruFile.data	{'word': '/Users/jbowles/.clojure.conf', 'time': 1292172972}
+MruFile.data	{'word': '/Users/jbowles/.vimtags', 'time': 1292172086}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/codesnippets/Makefile', 'time': 1292171588}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/codesnippets/Makefile.multi-target.template', 'time': 1292171573}
+MruFile.data	{'word': '/Users/jbowles/sine.c', 'time': 1292171461}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/hello.c:18', 'time': 1292171193}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/GoToFile', 'time': 1292170996}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/hell.c', 'time': 1292168055}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/matrix.c', 'time': 1292167684}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/drexel_scientific_computing/[Fuzzyfinder]', 'time': 1292167498}
+MruFile.data	{'word': '/Users/jbowles/vimwiki/index.wiki', 'time': 1292167281}
+MruFile.data	{'word': '/Users/jbowles/x/projects/python/PCI_Code/chapter2/deliciousrec.py', 'time': 1292164848}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/#Cref.c#', 'time': 1292164668}
+MruFile.data	{'word': '/Users/jbowles/.vim/ftplugin/c.vim', 'time': 1292115520}
+MruFile.data	{'word': '/Users/jbowles/.vim/c-support/scripts/wrapper.sh', 'time': 1292114403}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/matrix.o', 'time': 1292114027}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/myprogram.c', 'time': 1292113495}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/if', 'time': 1292112478}
+MruFile.data	{'word': '/Users/jbowles/.vim/plugin/cmd.vim', 'time': 1292112319}
+MruFile.data	{'word': '/Users/jbowles/Downloads/cmd.vim', 'time': 1292112286}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/methods.c', 'time': 1292111209}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/ai/genalgo/gene/AVERAGE.C', 'time': 1292109968}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/GoToFile', 'time': 1292109968}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/mehtod.c', 'time': 1292109695}
+MruFile.data	{'word': '/Users/jbowles/.vim/doc/.vimrc', 'time': 1292105691}
+MruFile.data	{'word': '/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal', 'time': 1292105500}
+MruFile.data	{'word': '/Users/jbowles/.vim/doc/__Tag_List__', 'time': 1292105131}
+MruFile.data	{'word': '/Users/jbowles/bin/putvim', 'time': 1292104487}
+MruFile.data	{'word': '/Users/jbowles/Downloads/zsh-4.2.7/INSTALL', 'time': 1292104487}
+MruFile.data	{'word': '/Users/jbowles/bin/putzsh', 'time': 1292103941}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/.vimrc', 'time': 1292098967}
+MruFile.data	{'word': '/Users/jbowles/x/projects/c/learn/math/bessel.c', 'time': 1292097393}
+MruFile.data	{'word': '/Users/jbowles/.vim/README.csupport', 'time': 1292097304}
+MruFile.data	{'word': '.vim/plugin/easytags.vim', 'time': 1292097257}
+MruFile.data	{'word': '/Users/jbowles/bin/mvim', 'time': 1292097113}
+MruFile.data	{'word': '/Users/jbowles/bin/gather', 'time': 1292096972}
+MruFile.data	{'word': '/Users/jbowles/bin/clj', 'time': 1292096924}
+MruFile.data	{'word': '/Users/jbowles/clj', 'time': 1292096732}
+MruCmd.data	{'word': ':q', 'time': 1293039370}
+MruCmd.data	{'word': ':w', 'time': 1293039364}
+MruCmd.data	{'word': ':wq', 'time': 1293031991}
+MruCmd.data	{'word': ':colorscheme chrysoprase', 'time': 1292960343}
+MruCmd.data	{'word': ':CommandT', 'time': 1292959892}
+MruCmd.data	{'word': ':compile runghc WC < quux.txt', 'time': 1292806411}
+MruCmd.data	{'word': ':e quux.txt', 'time': 1292806331}
+MruCmd.data	{'word': ':latexpdf cvset.tex', 'time': 1292792349}
+MruCmd.data	{'word': ': latex info.tex', 'time': 1292769624}
+MruCmd.data	{'word': ':e cha3.java', 'time': 1292697863}
+MruCmd.data	{'word': ':e test.html', 'time': 1292589186}
+MruCmd.data	{'word': ':e omniture_tracking_source_component.php', 'time': 1292519896}
+MruCmd.data	{'word': ':e omniture_tracking.php', 'time': 1292519860}
+MruCmd.data	{'word': ':e omniture_tracking_source.js', 'time': 1292519591}
+MruCmd.data	{'word': ':e plugin_tutorial.html', 'time': 1292468015}
+MruCmd.data	{'word': ':e mona_lisa_shuffle.html', 'time': 1292467230}
+MruCmd.data	{'word': ':e jquery.gshuffle-1.js', 'time': 1292466739}
+MruCmd.data	{'word': ':e ~/downloads/Report20101214.csv', 'time': 1292452761}
+MruCmd.data	{'word': ':vimdiff', 'time': 1292452626}
+MruCmd.data	{'word': ':vimdiff ~/downloads/Report.csv ~/downloads/Report20101214.cs ', 'time': 1292452615}
+MruCmd.data	{'word': ':e $MYVIMRC', 'time': 1292385950}
+MruCmd.data	{'word': ':e test.c', 'time': 1292205027}
+MruCmd.data	{'word': ':e testing.c', 'time': 1292204258}
+MruCmd.data	{'word': ':call C_Run()', 'time': 1292203720}
+MruCmd.data	{'word': ':call C_HlMessage()', 'time': 1292203718}
+MruCmd.data	{'word': ':call C_Link()', 'time': 1292203718}
+MruCmd.data	{'word': ':call C_Compile()', 'time': 1292203716}
+MruCmd.data	{'word': ':e commandln.c', 'time': 1292203536}
+MruCmd.data	{'word': ':e cmdLine.c', 'time': 1292203305}
+MruCmd.data	{'word': ':e commandLine.c', 'time': 1292202423}
+MruCmd.data	{'word': ':e graphics.c', 'time': 1292201018}
+MruCmd.data	{'word': ':call C_Arguments()', 'time': 1292198663}
+MruCmd.data	{'word': ':''<,''>call C_Arguments()', 'time': 1292198519}
+MruCmd.data	{'word': ':%foldclose!', 'time': 1292197783}
+MruCmd.data	{'word': ':e dialog_box.c', 'time': 1292197212}
+MruCmd.data	{'word': ':e .gvimrc', 'time': 1292192776}
+MruCmd.data	{'word': ':e .vimrc', 'time': 1292192761}
+MruCmd.data	{'word': ':tags', 'time': 1292192528}
+MruCmd.data	{'word': ':q!', 'time': 1292190903}
+MruCmd.data	{'word': ':e $MYGVIM', 'time': 1292190531}
+MruCmd.data	{'word': ':e ~/.gvimrc', 'time': 1292190396}
+MruCmd.data	{'word': ':Tlist', 'time': 1292187867}
+MruCmd.data	{'word': ':helptags ~/.vim/doc/', 'time': 1292187854}
+MruCmd.data	{'word': ':helptags .', 'time': 1292177398}
+MruCmd.data	{'word': ':wq!', 'time': 1292176245}
+MruCmd.data	{'word': ':edit $MYVIMRC', 'time': 1292176084}
+MruCmd.data	{'word': ':TlistToggle', 'time': 1292174752}
+MruCmd.data	{'word': ':# \t]+)[ \t]*[:]{1,2}/\1/t,targets/', 'time': 1292174484}
+MruCmd.data	{'word': ':tl', 'time': 1292174354}
+MruCmd.data	{'word': ':e ~/.railsrc', 'time': 1292173302}
+MruCmd.data	{'word': ':e ~/.irbrc', 'time': 1292173263}
+MruCmd.data	{'word': ':e sine.c', 'time': 1292172752}
+MruCmd.data	{'word': ':n sine.c', 'time': 1292171393}
+MruCmd.data	{'word': ':e hello.c', 'time': 1292171205}
+MruCmd.data	{'word': ':Gcc -o helloc hello.c', 'time': 1292169692}
+MruCmd.data	{'word': ':.q!', 'time': 1292169046}
+MruCmd.data	{'word': '/a.out', 'time': 1292168984}
+MruCmd.data	{'word': ':h', 'time': 1292168931}
+MruCmd.data	{'word': ': a.out', 'time': 1292168920}
+MruCmd.data	{'word': ':Gcc hello.c', 'time': 1292168908}
+MruCmd.data	{'word': ':r hello', 'time': 1292168834}
+MruCmd.data	{'word': ': ./hello', 'time': 1292168818}
+MruCmd.data	{'word': ': hello', 'time': 1292168813}
+MruCmd.data	{'word': ':Gcc hello', 'time': 1292168805}
+MruCmd.data	{'word': ': ./a.out', 'time': 1292168760}
+MruCmd.data	{'word': ':x', 'time': 1292168500}
+MruCmd.data	{'word': ':Gcc -Wall -I/usr/local/bin hello.c', 'time': 1292167618}
+MruCmd.data	{'word': ':FuzzyFinderTag', 'time': 1292167498}
+MruCmd.data	{'word': ':Gcc -o hello hello.c', 'time': 1292167411}
+MruCmd.data	{'word': ':call vimwiki#goto_index(1)', 'time': 1292167281}
+MruCmd.data	{'word': ':Gcc -L/usr/local/lib matrix.o -lgsl -lgslcblas -lm -o matrix', 'time': 1292115649}
+MruCmd.data	{'word': ':Gcc -L/usr/local/lib matrix.o -lgsl -lgslcblas -lm', 'time': 1292115512}
+MruCmd.data	{'word': ':Gcc matrix.o -lgsl -lcblas -lm', 'time': 1292115449}
+MruCmd.data	{'word': ':Gcc matrix.o -lgsl -lcblas -lm -o matrix', 'time': 1292115428}
+MruCmd.data	{'word': ':Gcc matrix.o -lgsl -lgslcblas -lm -o matrix', 'time': 1292115395}
+MruCmd.data	{'word': ':Gcc -Wall -I/usr/local/include -c matrix.c', 'time': 1292114006}
+MruCmd.data	{'word': ':Gcc -Wall I/usr/local/include -c matrix.c', 'time': 1292113851}
+MruCmd.data	{'word': ': \hp ?', 'time': 1292112899}
+MruCmd.data	{'word': ': \hp/ ', 'time': 1292112885}
+MruCmd.data	{'word': ': \hp ', 'time': 1292112878}
+MruCmd.data	{'word': ':\hp', 'time': 1292112870}
+MruCmd.data	{'word': ':call C_InsertTemplate("statements.if")', 'time': 1292112801}
+MruCmd.data	{'word': ':n\if', 'time': 1292112478}
+MruCmd.data	{'word': ':\if', 'time': 1292112088}
+MruCmd.data	{'word': ':cfu', 'time': 1292112083}
+MruCmd.data	{'word': ':if', 'time': 1292112078}
+MruCmd.data	{'word': ':e ~/.vimrc', 'time': 1292111682}
+MruCmd.data	{'word': ':e methods.c', 'time': 1292110044}
+MruCmd.data	{'word': ':cd learn/math', 'time': 1292110035}
+MruCmd.data	{'word': ': .', 'time': 1292109964}
+MruCmd.data	{'word': ':e mehtod.c', 'time': 1292109658}
+MruCmd.data	{'word': ':h csupport', 'time': 1292109266}
+MruCmd.data	{'word': ':rc', 'time': 1292108735}
+MruCmd.data	{'word': ':\rc', 'time': 1292108702}
+MruCmd.data	{'word': ':help taglist', 'time': 1292105258}
+MruCmd.data	{'word': ':cd ~/bin', 'time': 1292096957}
+MruCmd.data	{'word': ':cd bin', 'time': 1292096941}
+MruCmd.data	{'word': ':e bin/clj', 'time': 1292096873}
+MruCmd.data	{'word': ':cd archive/dotfiles/dakrone-dotfiles', 'time': 1292096012}
+MruCmd.data	{'word': ':cd ~/x/projects/c/learn/math', 'time': 1292094758}
+MruCmd.data	{'word': ':e rescue_test.rb', 'time': 1292094496}
+MruCmd.data	{'word': ':helptags ~/.vim/doc', 'time': 1292094433}
+MruCmd.data	{'word': ':helptags', 'time': 1292093298}
